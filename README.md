@@ -38,3 +38,5 @@ my_object.my_method() # prints "Hello, World!"
 ```
 
 Classes are an important part of object-oriented programming, and they provide a powerful way to organize and structure your code.
+
+for more about class in python (https://www.w3schools.com/python/python_classes.asp)
